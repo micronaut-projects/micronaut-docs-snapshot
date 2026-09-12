@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://micronaut-projects.github.io/micronaut-docs-snapshot/sitemap-index.xml
