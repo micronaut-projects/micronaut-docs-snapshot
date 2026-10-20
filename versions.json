@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "label": "Snapshot",
+      "href": "/snapshot/",
+      "current": true
+    }
+  ]
+}
